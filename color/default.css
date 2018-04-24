@@ -1,0 +1,76 @@
+a:hover,
+a:focus {
+    color: #70B9EF;
+}
+/*
+ * Greyy Technologies Inc
+ */
+#navigation {
+	border-top: 5px solid #70B9EF;
+}
+
+a,.tp-caption a.btn:hover {
+	color: #70B9EF;
+}
+.top-nav-collapse {
+	background: #70B9EF;
+}
+
+.carousel-indicators .active {
+    background-color: #70B9EF;
+}
+
+.header-text h2 span {
+    background-color: #70B9EF;
+}
+
+
+.navbar-custom ul.nav ul.dropdown-menu li a:hover {
+	color: #70B9EF;
+}
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background-color: #70B9EF;
+}
+
+.widget-avatar .avatar:hover {
+    border: 5px solid #70B9EF;
+}
+
+.bg-skin {
+	background: #70B9EF;
+}
+
+.highlight-color {
+	background-color: #70B9EF;
+}
+
+.service-box:hover {
+	border-bottom: 2px solid #70B9EF;
+}
+
+
+
+form#contact-form input:focus,form#contact-form select:focus,form#contact-form textarea:focus {
+	border-color: #70B9EF;
+}
+form.search-form input:focus {
+	border-color: #70B9EF;
+}
+
+/* footer */
+ul.footer-menu li a:hover {
+	color: #70B9EF;
+}
+
+footer a.totop:hover {
+	color: #70B9EF;
+}
+
+
+.btn-skin {
+  color: #fff;
+  background-color: #70B9EF;
+  border-color: #70B9EF;
+}
